@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-image: url('https://img.freepik.com/free-vector/pyrotechnics-fireworks-background-with-animation-black_1284-54175.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703376000&semt=ais');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    padding: 0;
+}
+
+.show {
+    display: none;
+}
+
+h1{
+    font-size: 100px;
+    font-style: oblique;
+    color: aliceblue;
+    text-shadow: 5px 5px black;
+}
+
+ h3 {
+    font-size: 90px;
+    font-style: italic;
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+input {
+    font-size: 30px;
+    width: 200px;
+    height: 50px;
+    background-color: beige;
+    color: hotpink;
+    border: 5px solid rgb(16, 16, 220);
+}
+
+button {
+    font-size: 60px;
+    background-color: gray;
+    border: 3px solid green;
+    font-weight: 400;
+}
+
+.ig {
+    height: 50%;
+    width: 60%;
+}
